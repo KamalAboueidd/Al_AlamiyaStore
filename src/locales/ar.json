@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "create": "إنشاء طلب",
+    "settings": "الإعدادات"
+  },
+  "orders": {
+    "title": "الطلبات",
+    "createNew": "إنشاء طلب جديد",
+    "search": "البحث بالاسم أو الرقم أو التاريخ...",
+    "sortBy": "ترتيب حسب",
+    "date": "التاريخ",
+    "total": "المجموع",
+    "customer": "العميل",
+    "noOrders": "لا توجد طلبات",
+    "noOrdersDesc": "أنشئ طلبك الأول للبدء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "view": "عرض",
+    "deleteTitle": "حذف الطلب",
+    "deletePrompt": "هل أنت متأكد من حذف هذا الطلب؟",
+    "deleteMessage": "حذف الطلب الخاص بـ {{customer}} لا يمكن التراجع عنه."
+  },
+  "order": {
+    "customer": "العميل",
+    "customerPlaceholder": "اسم العميل",
+    "itemNamePlaceholder": "اسم العنصر",
+    "items": "العناصر",
+    "addItem": "إضافة عنصر",
+    "subtotal": "المجموع الفرعي",
+    "tax": "الضريبة",
+    "total": "المجموع",
+    "save": "حفظ الطلب",
+    "update": "تحديث الطلب",
+    "cancel": "إلغاء",
+    "orderDetails": "تفاصيل الطلب"
+  },
+  "invoice": {
+    "title": "الفاتورة",
+    "preview": "معاينة",
+    "export": "تصدير PDF",
+    "print": "طباعة",
+    "share": "مشاركة"
+  },
+  "settings": {
+    "theme": "المظهر",
+    "language": "اللغة",
+    "dark": "داكن",
+    "light": "فاتح",
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "toast": {
+    "savingOrder": "جارٍ حفظ الطلب...",
+    "updatingOrder": "جارٍ تحديث الطلب...",
+    "orderCreated": "تم إنشاء الطلب بنجاح",
+    "orderUpdated": "تم تحديث الطلب بنجاح",
+    "orderDeleted": "تم حذف الطلب بنجاح",
+    "pdfExported": "تم تصدير PDF بنجاح",
+    "linkCopied": "تم نسخ الرابط إلى الحافظة",
+    "actionFailed": "حدث خطأ، حاول مرة أخرى"
+  }
+}

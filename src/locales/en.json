@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "create": "Create Order",
+    "settings": "Settings"
+  },
+  "orders": {
+    "title": "Orders",
+    "createNew": "Create New Order",
+    "search": "Search by name, ID, or date...",
+    "sortBy": "Sort by",
+    "date": "Date",
+    "total": "Total",
+    "customer": "Customer",
+    "noOrders": "No orders found",
+    "noOrdersDesc": "Create your first order to get started",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "orderDetails": "Order Details",
+    "deleteTitle": "Delete Order",
+    "deletePrompt": "Are you sure you want to delete this order?",
+    "deleteMessage": "Deleting the order for {{customer}} cannot be undone."
+  },
+  "order": {
+    "customer": "Customer",
+    "customerPlaceholder": "Customer name",
+    "itemNamePlaceholder": "Item name",
+    "items": "Items",
+    "addItem": "Add Item",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "save": "Save Order",
+    "update": "Update Order",
+    "cancel": "Cancel"
+  },
+  "invoice": {
+    "title": "Invoice",
+    "preview": "Preview",
+    "export": "Export PDF",
+    "print": "Print",
+    "share": "Share"
+  },
+  "settings": {
+    "theme": "Theme",
+    "language": "Language",
+    "dark": "Dark",
+    "light": "Light",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "toast": {
+    "savingOrder": "Saving order...",
+    "updatingOrder": "Updating order...",
+    "orderCreated": "Order created successfully",
+    "orderUpdated": "Order updated successfully",
+    "orderDeleted": "Order deleted successfully",
+    "pdfExported": "PDF exported successfully",
+    "linkCopied": "Link copied to clipboard",
+    "actionFailed": "Something went wrong, please try again"
+  }
+}
